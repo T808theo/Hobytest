@@ -1,6 +1,6 @@
 .An address translation scheme is a mechanism used in computer systems to map virtual or logical addresses to physical addresses.
 .A hobby kernel is kernel created primarily for educational porposes experimentation or personal interest rather than for commercial or mainbstream use.
-.the role of an operating system in hardware abstraction:1.Providing Standardized Interfaces:The OS defines standardized Application Programming Interfaces (APIs) that software developers use to interact with hardware. 
+.the role of an operating system in hardware abstraction:1.Providing Standardized Interfaces:The OS defines standardized Application Programming Interfaces (APIs) that  software developers use to interact with hardware. 
 .QtEMU related to QEMU.QtEMU serves as a frontend for QEMU, meaning it relies on QEMU to perform the actual virtualization or emulation tasks.While QEMU runs the virtual machines and handles hardware emulation, QtEMU provides a user-friendly interface for configuring and managing these tasks. 
 .the purpose of a HEX editor in kernel development.Inspecting Binary Files:Kernel developers often need to examine compiled binaries, object files, or bootloaders to ensure that they conform to expected structures.
 the VSCode recommended as a text editor.becouse it highly recommended as a text editor for various development tasks, including kernel development, due to its rich feature set, extensibility, and user-friendly interface. 
